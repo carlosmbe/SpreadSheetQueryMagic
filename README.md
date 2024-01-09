@@ -42,5 +42,22 @@ Contributions are welcome and greatly appreciated. To contribute:
 4. Push to the branch (`git push origin feature/YourFeature`).
 5. Open a Pull Request.
 
+## Beautiful Pictures
+<img width="1792" alt="Screenshot 2024-01-09 at 2 31 14 PM" src="https://github.com/carlosmbe/SpreadSheetQueryMagic/assets/53784701/e24938f6-e8f2-4ee9-99b1-ece33fc73eef">
+<img width="1792" alt="Screenshot 2024-01-09 at 2 31 06 PM" src="https://github.com/carlosmbe/SpreadSheetQueryMagic/assets/53784701/2b46e4ed-0df7-45b6-aa0f-47a0fa182ed5">
+<img width="1792" alt="Screenshot 2024-01-09 at 2 29 32 PM" src="https://github.com/carlosmbe/SpreadSheetQueryMagic/assets/53784701/273e2a99-7279-4866-9f83-4fa817f2dae0">
+<img width="1792" alt="Screenshot 2024-01-09 at 2 29 19 PM" src="https://github.com/carlosmbe/SpreadSheetQueryMagic/assets/53784701/bb6185a9-ca13-446f-a85c-806e1d9f1e2e">
+
+
+### The Spread Sheet in this video example has names removed for privacy reasons
+
+
+
+https://github.com/carlosmbe/SpreadSheetQueryMagic/assets/53784701/0f31c1ad-1a07-4cad-a143-316120498741
+
+
+
+
+
 ## License
 This project is licensed under the MIT License - see the `LICENSE` file for details.
